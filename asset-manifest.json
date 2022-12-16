@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/new-react-portfolio/static/css/main.eb8ed9d2.css",
+    "main.js": "/new-react-portfolio/static/js/main.badf6ccd.js",
+    "static/media/eatYourFeeling.jpg": "/new-react-portfolio/static/media/eatYourFeeling.2178975d6fde77819c05.jpg",
+    "static/media/realestate.jpg": "/new-react-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/weBoot.jpg": "/new-react-portfolio/static/media/weBoot.b9bd1e5bd54fac076c8d.jpg",
+    "static/media/note-traker.jpg": "/new-react-portfolio/static/media/note-traker.ddbc7423fb1ea76b66b9.jpg",
+    "static/media/weatherDashboard.jpg": "/new-react-portfolio/static/media/weatherDashboard.6f0ddc691a2f6f0acb46.jpg",
+    "static/media/mvcTechBlog.jpg": "/new-react-portfolio/static/media/mvcTechBlog.6ad00fb2525cd84d3561.jpg",
+    "static/media/dayPlanner.jpg": "/new-react-portfolio/static/media/dayPlanner.9425c83dbbf26067f847.jpg",
+    "static/media/hooked.jpg": "/new-react-portfolio/static/media/hooked.e06f5d692868d06b3f67.jpg",
+    "static/media/workImg.jpeg": "/new-react-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/new-react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/new-react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/new-react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/new-react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/new-react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/new-react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/new-react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/new-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/new-react-portfolio/index.html",
+    "main.eb8ed9d2.css.map": "/new-react-portfolio/static/css/main.eb8ed9d2.css.map",
+    "main.badf6ccd.js.map": "/new-react-portfolio/static/js/main.badf6ccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb8ed9d2.css",
+    "static/js/main.badf6ccd.js"
+  ]
+}
